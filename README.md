@@ -1,8 +1,8 @@
-# Meadow Hall Education Website
+# Cybertron Academy Website
 
 ## Project Title & Description
 
-Meadow Hall Education is a responsive, multi-page school website built with semantic HTML, CSS, and vanilla JavaScript. It presents the school's identity, academic approach, school life, admissions information, parent portal entry point, and contact details in a polished education-focused interface.
+Cybertron Academy is a responsive, multi-page school website built with semantic HTML, CSS, and vanilla JavaScript. It presents the school's identity, academic approach, school life, admissions information, parent portal entry point, and contact details in a polished education-focused interface.
 
 The site includes:
 
@@ -16,7 +16,7 @@ The site includes:
 
 ## Table of Contents
 
-1. [Project Title & Description](#project-title--description)
+1. [Security & Description](#project-title--description)
 2. [Project Structure](#project-structure)
 3. [Installation Guide](#installation-guide)
 4. [Usage Examples](#usage-examples)
