@@ -167,6 +167,9 @@
 .school-nav-button {
   background: var(--school-gold);
   color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
   font-size: 0.73rem;
   font-weight: 800;
   letter-spacing: 0.06em;
@@ -175,6 +178,12 @@
 }
 .school-nav-button:hover {
   background: var(--school-navy);
+}
+.school-nav-login {
+  background: var(--school-navy);
+}
+.school-nav-login:hover {
+  background: var(--school-gold);
 }
 .school-mobile-toggle {
   background: none;
