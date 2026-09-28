@@ -179,6 +179,14 @@
 .school-nav-button:hover {
   background: var(--school-navy);
 }
+.school-nav-actions {
+  align-items: center;
+  display: flex;
+  margin-left: 12px;
+}
+.school-nav-actions .school-nav-button + .school-nav-button {
+  margin-left: -10px;
+}
 .school-nav-login {
   background: var(--school-navy);
 }
